@@ -1,0 +1,90 @@
+
+Plant Name,Scientific Name,Medical Uses,Toxicity,Medical Use Category
+Aloe Vera,Aloe barbadensis,Used for skin burns and wounds,No,Skin Care
+Echinacea,Echinacea purpurea,Boosts immune system,No,Immune Support
+Belladonna,Atropa belladonna,Used in pain relief and muscle spasms,Yes,Pain Relief
+Lavender,Lavandula angustifolia,Used for anxiety and insomnia,No,Relaxation
+Foxglove,Digitalis purpurea,Used to treat heart conditions,Yes,Heart Health
+Chamomile,Matricaria chamomilla,Used for digestive issues and anxiety,No,Digestive Health
+Ginseng,Panax ginseng,Boosts energy and immune system,No,Energy Support
+Poison Ivy,Toxicodendron radicans,Causes skin irritation,Yes,No Medical Use
+Peppermint,Mentha piperita,Used for digestive issues and headaches,No,Digestive Health
+Nightshade,Solanum nigrum,Used in traditional medicine but toxic in large amounts,Yes,Traditional Medicine
+Rosemary,Rosmarinus officinalis,Improves memory and concentration,No,Cognitive Support
+Turmeric,Curcuma longa,Anti-inflammatory and antioxidant,No,Anti-Inflammatory
+Dandelion,Taraxacum officinale,Used for liver and kidney health,No,Detoxification
+Ginkgo,Ginkgo biloba,Improves blood circulation and cognitive function,No,Cognitive Support
+St. John's Wort,Hypericum perforatum,Used for depression and mood disorders,No,Mood Support
+Garlic,Allium sativum,Used for cardiovascular health,No,Heart Health
+Milk Thistle,Silybum marianum,Supports liver health,No,Liver Support
+Valerian,Valeriana officinalis,Used for sleep disorders and anxiety,No,Relaxation
+Black Cohosh,Actaea racemosa,Used for menopause symptoms,No,Women's Health
+Yarrow,Achillea millefolium,Used for wound healing and digestive issues,No,Wound Healing
+Elderberry,Sambucus nigra,Boosts immune system,No,Immune Support
+Catnip,Nepeta cataria,Used for relaxation and sleep,No,Relaxation
+Ginger,Zingiber officinale,Used for nausea and digestive issues,No,Digestive Health
+Licorice,Glycyrrhiza glabra,Used for respiratory and digestive issues,No,Respiratory Support
+Passionflower,Passiflora incarnata,Used for anxiety and sleep disorders,No,Relaxation
+Sage,Salvia officinalis,Used for cognitive health and sore throats,No,Cognitive Support
+Thyme,Thymus vulgaris,Used for respiratory issues and antiseptic properties,No,Respiratory Support
+Basil,Ocimum basilicum,Used for digestive issues and anti-inflammatory properties,No,Digestive Health
+Calendula,Calendula officinalis,Used for skin healing and anti-inflammatory properties,No,Skin Care
+Hawthorn,Crataegus monogyna,Used for heart health,No,Heart Health
+Marshmallow,Althaea officinalis,Used for soothing sore throats and digestive issues,No,Soothing Agent
+Cinnamon,Cinnamomum verum,Used for blood sugar control and anti-inflammatory properties,No,Anti-Inflammatory
+Lemon Balm,Melissa officinalis,Used for anxiety and digestive issues,No,Relaxation
+Red Clover,Trifolium pratense,Used for menopausal symptoms and skin health,No,Women's Health
+Saw Palmetto,Serenoa repens,Used for prostate health,No,Men's Health
+Eucalyptus,Eucalyptus globulus,Used for respiratory health and antiseptic properties,No,Respiratory Support
+Fenugreek,Trigonella foenum-graecum,Used for blood sugar control and lactation support,No,Blood Sugar Control
+Feverfew,Tanacetum parthenium,Used for migraine prevention,No,Pain Relief
+Kava,Kava kava,Used for anxiety and muscle relaxation,No,Relaxation
+Maca,Lepidium meyenii,Used for energy and hormonal balance,No,Energy Support
+Oregano,Origanum vulgare,Used for respiratory health and antibacterial properties,No,Respiratory Support
+Peppermint,Mentha piperita,Used for digestive issues and headaches,No,Digestive Health
+Raspberry Leaf,Rubus idaeus,Used for women's health and labor preparation,No,Women's Health
+Saffron,Crocus sativus,Used for mood support and antioxidant properties,No,Mood Support
+Slippery Elm,Ulmus rubra,Used for soothing digestive tract and sore throats,No,Soothing Agent
+Tea Tree,Melaleuca alternifolia,Used for skin infections and antiseptic properties,No,Skin Care
+Willow Bark,Salix alba,Used for pain relief and anti-inflammatory properties,No,Pain Relief
+Witch Hazel,Hamamelis virginiana,Used for skin irritation and inflammation,No,Skin Care
+Yohimbe,Pausinystalia johimbe,Used for libido and erectile dysfunction,Yes,Men's Health
+Ashwagandha,Withania somnifera,Reduces stress and anxiety,No,Stress Relief
+Grapeseed,Vitis vinifera,Antioxidant and supports cardiovascular health,No,Antioxidant
+Neem,Azadirachta indica,Used for skin health and detoxification,No,Skin Care
+Holy Basil,Ocimum sanctum,Reduces stress and boosts immune system,No,Stress Relief
+Gotu Kola,Centella asiatica,Improves cognitive function and skin health,No,Cognitive Support
+Hibiscus,Hibiscus sabdariffa,Lowers blood pressure and supports cardiovascular health,No,Heart Health
+Astragalus,Astragalus membranaceus,Boosts immune system and anti-aging properties,No,Immune Support
+Blueberry,Vaccinium corymbosum,Antioxidant and supports brain health,No,Antioxidant
+Butterbur,Petasites hybridus,Used for migraines and allergic rhinitis,No,Pain Relief
+Cranberry,Vacinium macrocarpon,Prevents urinary tract infections,No,Urinary Health
+Evening Primrose,Oenothera biennis,Used for skin health and hormonal balance,No,Women's Health
+Fennel,Foeniculum vulgare,Used for digestive issues and colic in infants,No,Digestive Health
+Horse Chestnut,Aesculus hippocastanum,Supports vein health and reduces swelling,No,Vein Health
+Lemon Verbena,Aloysia citrodora,Used for digestive issues and insomnia,No,Relaxation
+Moringa,Moringa oleifera,Nutrient-dense and supports overall health,No,Nutritional Support
+Nettle,Urtica dioica,Used for allergies and joint health,No,Allergy Relief
+Olive Leaf,Olea europaea,Antioxidant and supports cardiovascular health,No,Heart Health
+Parsley,Petroselinum crispum,Supports kidney health and digestion,No,Detoxification
+Rhodiola,Rhodiola rosea,Reduces fatigue and improves mental performance,No,Energy Support
+Rose Hip,Rosa canina,Rich in vitamin C and supports immune system,No,Immune Support
+Shiitake,Lentinula edodes,Boosts immune system and supports heart health,No,Immune Support
+Spearmint,Mentha spicata,Used for digestive issues and hormonal balance,No,Digestive Health
+Turmeric,Curcuma longa,Anti-inflammatory and antioxidant,No,Anti-Inflammatory
+White Willow,Salix alba,Used for pain relief and anti-inflammatory properties,No,Pain Relief
+Yerba Mate,Ilex paraguariensis,Boosts energy and mental clarity,No,Energy Support
+Burdock,Arctium lappa,Used for detoxification and skin health,No,Detoxification
+Cilantro,Coriandrum sativum,Used for heavy metal detoxification and digestion,No,Detoxification
+Coltsfoot,Tussilago farfara,Used for respiratory issues and cough relief,No,Respiratory Support
+Comfrey,Symphytum officinale,Used for wound healing and inflammation,Yes,Wound Healing
+Elderflower,Sambucus nigra,Used for colds and respiratory health,No,Respiratory Support
+Hops,Humulus lupulus,Used for anxiety and sleep disorders,No,Relaxation
+Juniper,Juniperus communis,Used for digestive issues and urinary health,No,Digestive Health
+Linden,Tilia cordata,Used for relaxation and respiratory health,No,Relaxation
+Marjoram,Origanum majorana,Used for digestive issues and menstrual cramps,No,Digestive Health
+Myrrh,Commiphora myrrha,Used for antiseptic and anti-inflammatory properties,No,Antiseptic
+Noni,Morinda citrifolia,Used for immune support and pain relief,No,Immune Support
+Pau D'Arco,Tabebuia impetiginosa,Used for infections and anti-inflammatory properties,No,Immune Support
+Reishi,Ganoderma lucidum,Boosts immune system and reduces stress,No,Immune Support
+Sarsaparilla,Smilax ornata,Used for skin conditions and detoxification,No,SKin Care
